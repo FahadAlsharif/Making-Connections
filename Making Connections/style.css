@@ -1,0 +1,183 @@
+
+.topbar {
+    color: aliceblue;
+    display: flex;
+    background-color: hsl(0, 0%, 20%);
+    align-items: center;
+    justify-content: space-evenly;
+    margin: -9px
+}
+
+.all {
+    width: 80%;
+    margin: auto;
+}
+.op{
+    display: flex;
+    width: 45%;
+    justify-content: space-around;
+}
+
+.main {
+    width: 70%;
+    height: 900px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+}
+
+.YourAcc{
+    width: 60%;
+    margin: 20px;
+}
+
+
+.Friends {
+    width: 30%;
+    margin: 20px;
+}
+
+.yourproflie{
+    height: 50%;
+    border: 5px gray solid;
+}
+
+.edcation {
+    height: 30%;
+    margin-top: 30px;
+    border: 5px gray solid;
+}
+
+.req{
+    height: 35%;
+    border: 5px gray solid;
+}
+
+.con {
+    height: 40%;
+    margin-top: 30px;
+    border: 5px gray solid;
+    text-align: center;
+}
+
+.top {
+    height: 20%;
+    background-color: #17A2B8;
+    margin: -5px;
+}
+
+.down {
+    height: 80%;
+    margin-left: 5%;
+}
+
+.upper2 {
+        width: 101%;
+        height: 60px;
+        margin-top: -15px;
+        background-color: lightslategray;
+        color: aliceblue;
+    
+}
+.upper2 div {
+    display: flex;
+    margin: 10px;
+}
+.upper {
+    width: 103%;
+    height: 60px;
+    margin: -5px;
+    background-color: lightslategray;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+.dil {
+    margin-left: 20px;
+}
+.upper p {
+    color: black;
+    background-color: aliceblue;
+    height: 30px;
+    width: 30px;
+    border-radius: 40%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.downn img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.who {
+    margin: 20px;
+    display: flex;
+    height: 50%;
+    width: 90%;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+
+.who3 {
+    margin: 20px;
+    display: flex;
+    height: 50%;
+    width: 90%;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+
+.who div img {
+    margin: 5px;
+}
+
+.who3 div img {
+    margin: 5px;
+}
+
+.who2 {
+    display: flex;
+    justify-content: center;
+}
+
+.who2 div {
+    margin-top: 10px;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.who2 img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.down img {
+    border-radius: 50%;
+}
+
+.proflie-pic {
+    margin-top: -20px;
+}
+
+
+.map {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.map img {
+    height: 30px; width: 30px;
+    margin-right: 5px;
+}
+
+
+.con h3 {
+    margin-top: 25px;
+    border: 5px gray solid;
+}
